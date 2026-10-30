@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Node / Next.js
+node_modules/
+.next/
+
+# Local vector DB / misc
+chroma_db/
+.DS_Store
